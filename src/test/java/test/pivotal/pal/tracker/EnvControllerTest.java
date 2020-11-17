@@ -11,7 +11,7 @@ public class EnvControllerTest {
     @Test
     public void getEnv() throws Exception {
         EnvController controller = new EnvController(
-            "8675",
+                "8675",
             "12G",
             "34",
             "123.sesame.street"
