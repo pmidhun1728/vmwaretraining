@@ -1,6 +1,6 @@
-package test.pivotal.pal.trackerapi;
+package test.pivotal.pal.tracker.trackerapi;
 
-import io.pivotal.pal.tracker.PalTrackerApplication;
+import junk.PalTrackerApplication;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

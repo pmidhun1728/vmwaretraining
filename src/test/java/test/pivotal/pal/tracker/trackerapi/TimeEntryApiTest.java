@@ -1,8 +1,8 @@
-package test.pivotal.pal.trackerapi;
+package test.pivotal.pal.tracker.trackerapi;
 
 import com.jayway.jsonpath.DocumentContext;
-import io.pivotal.pal.tracker.PalTrackerApplication;
-import io.pivotal.pal.tracker.TimeEntry;
+import junk.PalTrackerApplication;
+import junk.TimeEntry;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
